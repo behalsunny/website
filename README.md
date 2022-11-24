@@ -1,6 +1,6 @@
 # Portfolio Template
 
-### A beautiful minimal and accessible portfolio template for Developers ✨.
+### A beautiful minimal and accessible portfolio template for Travellers ✨.
 
 To View the live site click [here &rarr;](https://portfolio-template.surge.sh)
 
@@ -27,10 +27,10 @@ To View the live site click [here &rarr;](https://portfolio-template.surge.sh)
 You'll need [Git](https://git-scm.com) to be installed on your computer. 
 ```
 # Clone this repository
-$ git clone https://github.com/nisarhassan12/portfolio-template
+$ git clone https://github.com/behalsunny/portfolio-template
 ```
 
-If you don't have Git installed or you don't like using the terminal then you can download the [zip](https://github.com/nisarhassan12/portfolio-template/archive/master.zip) and extract that and open the extracted folder in the code editor of your your choice.
+If you don't have Git installed or you don't like using the terminal then you can download the [zip](https://github.com/mr.b/yettocome.zip) and extract that and open the extracted folder in the code editor of your your choice.
 
 ## Editing the Template 🔨
 
@@ -212,7 +212,7 @@ For changing the screenshot:
 
         <!-- If you give me some credit by keeping the below paragraph, will be huge for me 😊 Thanks. -->
         <p>
-          &copy; 2020 - Template designed & developed by <a href="https://nisar.dev">Nisar</a>.
+          &copy; 2020 - Template designed & developed by <a href="https://mr.b.dev">mr.b</a>.
         </p>
         <div class="footer__github-buttons">
           <iframe
