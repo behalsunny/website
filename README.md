@@ -76,7 +76,7 @@ Each div with class `work__box` represents a project, replace the contents of th
         <a href="#" class="link__text">
         Visit Site <span>&rarr;</span>
         </a> 
-        <a href="https://github.com/nisarhassan12/portfolio" target="_blank">
+        <a href="https://github.com/behalsunny" target="_blank">
         <img src="./images/github.svg" class="work__code" alt="GitHub">
         </a>
     </div>
@@ -144,7 +144,7 @@ For changing the screenshot:
                 <!-- Add a nice photo of yourself -->
                 <img
                 class="about__photo"
-                src="./images/syed-ali-hussnain.jpg"
+                src="./images/"
                 alt=""
                 />
             </div>
@@ -172,7 +172,7 @@ For changing the screenshot:
             me is via an email.
           </p>
           <!-- Replace the email with yours -->
-          <a href="mailto:you@example.com" class="btn">you@example.com</a>
+          <a href="mailto:emailtosunnybehal@gmail.com" class="btn">emailtosunnybehal@gmail.com</a>
         </div>
       </div>
 </section>
@@ -189,22 +189,22 @@ For changing the screenshot:
         <!-- Update the links to point to your accounts -->
         <ul class="footer__social-links">
             <li class="footer__social-link-item">
-                <a href="https://twitter.com/nisarhassan12/">
+                <a href="https://twitter.com/yettocome/">
                     <img src="./images/twitter.svg" class="footer__social-image" alt="Twitter">
                 </a>
             </li>
             <li class="footer__social-link-item">
-                <a href="https://github.com/nisarhassan12/">
+                <a href="https://github.com/yettocome/">
                     <img src="./images/github.svg" class="footer__social-image" alt="Github">
                 </a>
             </li>
             <li class="footer__social-link-item">
-                <a href="https://codepen.io/nisar_hassan">
+                <a href="https://codepen.io/yettocome">
                     <img src="./images/codepen.svg" class="footer__social-image" alt="Codepen">
                 </a>
             </li>
             <li class="footer__social-link-item">
-                <a href=https://www.linkedin.com/in/nisar-hassan-naqvi-413466199/">
+                <a href=https://www.linkedin.com/in/yettocome/">
                     <img src="./images/linkedin.svg" class="footer__social-image" alt="Linkedin">
                 </a>
             </li>
@@ -216,7 +216,7 @@ For changing the screenshot:
         </p>
         <div class="footer__github-buttons">
           <iframe
-            src="https://ghbtns.com/github-btn.html?user=nisarhassan12&repo=portfolio-template&type=watch&count=true" 
+            src="https://ghbtns.com/github-btn.html?user=yettocome&repo=portfolio-template&type=watch&count=true" 
             frameborder="0" scrolling="0" width="170" height="20" title="Watch Portfolio Template on GitHub">
           </iframe>
         </div>
