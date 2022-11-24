@@ -2,7 +2,7 @@
 
 ### A beautiful minimal and accessible portfolio template for Travellers ✨.
 
-To View the live site click [here &rarr;](https://portfolio-template.surge.sh)
+To View the live site click 
 
 ![Portfolio Gif](/images/portfolio.gif)
 
@@ -24,7 +24,7 @@ To View the live site click [here &rarr;](https://portfolio-template.surge.sh)
 
 ## Getting Started 🚀
 
-You'll need [Git](https://git-scm.com) to be installed on your computer. 
+You'll need [Git](https://git-yettocome.com) to be installed on your computer. 
 ```
 # Clone this repository
 $ git clone https://github.com/behalsunny/portfolio-template
