@@ -45,7 +45,7 @@ In all of the places where you're supposed to fill your information you'll find 
     <div class="header__text">
         <h1 class="heading-primary">
         <!-- Replace the following name with your name -->
-        <span>Syed Ali Hussnain</span>
+        <span>Mr.B</span>
         </h1>
         <!-- Put a small paragraph about yourself -->
         <p>A Travel blog website.</p>
